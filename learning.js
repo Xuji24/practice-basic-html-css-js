@@ -21,7 +21,7 @@ $(document).ready(function () {
     });
     
     $(".yes").on("mouseenter", function(){
-        $(".gif").attr("src", "./images/Male-happy.gif");
+        $(".gif").attr("src", "./images/male-happy.gif");
         $(".nope").css({
             top: "0px",
             left: "0px",
